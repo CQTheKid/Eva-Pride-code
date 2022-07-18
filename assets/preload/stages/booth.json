@@ -1,0 +1,17 @@
+{
+	"directory": "eva",
+	"defaultZoom": 1.05,
+	"isPixelStage": true,
+	"boyfriend": [
+		970,
+		350
+	],
+	"girlfriend": [
+		580,
+		750
+	],
+	"opponent": [
+		0,
+		250
+	]
+}

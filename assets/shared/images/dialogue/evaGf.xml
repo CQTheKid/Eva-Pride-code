@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="evaGf.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="talk0000" x="0" y="0" width="52" height="57"/>
+	<SubTexture name="talk0001" x="0" y="0" width="52" height="57"/>
+	<SubTexture name="talk0002" x="52" y="0" width="52" height="57"/>
+	<SubTexture name="talk0003" x="52" y="0" width="52" height="57"/>
+	<SubTexture name="talk0004" x="0" y="57" width="52" height="57"/>
+	<SubTexture name="talk0005" x="0" y="57" width="52" height="57"/>
+</TextureAtlas>

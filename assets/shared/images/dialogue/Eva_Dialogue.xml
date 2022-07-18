@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Eva_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Talk0000" x="0" y="0" width="52" height="57"/>
+	<SubTexture name="Talk0001" x="0" y="0" width="52" height="57"/>
+	<SubTexture name="Talk0002" x="52" y="0" width="52" height="57"/>
+	<SubTexture name="Talk0003" x="52" y="0" width="52" height="57"/>
+	<SubTexture name="Talk0004" x="104" y="0" width="52" height="57"/>
+	<SubTexture name="Talk0005" x="104" y="0" width="52" height="57"/>
+	<SubTexture name="Talk Excited0000" x="156" y="0" width="52" height="57"/>
+	<SubTexture name="Talk Excited0001" x="156" y="0" width="52" height="57"/>
+	<SubTexture name="Talk Excited0002" x="0" y="57" width="52" height="57"/>
+	<SubTexture name="Talk Excited0003" x="0" y="57" width="52" height="57"/>
+	<SubTexture name="Talk Excited0004" x="52" y="57" width="52" height="57"/>
+	<SubTexture name="Talk Excited0005" x="52" y="57" width="52" height="57"/>
+	<SubTexture name="Talk Shy0000" x="104" y="57" width="52" height="57"/>
+	<SubTexture name="Talk Shy0001" x="104" y="57" width="52" height="57"/>
+	<SubTexture name="Talk Shy0002" x="156" y="57" width="52" height="57"/>
+	<SubTexture name="Talk Shy0003" x="156" y="57" width="52" height="57"/>
+	<SubTexture name="Talk Shy0004" x="0" y="114" width="52" height="57"/>
+	<SubTexture name="Talk Shy0005" x="0" y="114" width="52" height="57"/>
+</TextureAtlas>

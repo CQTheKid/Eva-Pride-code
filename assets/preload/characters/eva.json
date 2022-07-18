@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-139,
+				-31
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Eva Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-135,
+				-30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Eva Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-142,
+				-30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Eva Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-127,
+				-35
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Eva Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-133,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Eva Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Eva",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "eva",
+	"flip_x": false,
+	"healthbar_colors": [
+		77,
+		112,
+		152
+	],
+	"camera_position": [
+		-50,
+		-210
+	],
+	"sing_duration": 4,
+	"scale": 5.1
+}

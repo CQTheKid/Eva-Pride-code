@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Eva.png"><SubTexture name="Eva Idle0000" x="0" y="0" width="94" height="144" frameX="0" frameY="0" frameWidth="94" frameHeight="144" />
+<SubTexture name="Eva Idle0001" x="94" y="0" width="94" height="144" frameX="0" frameY="0" frameWidth="94" frameHeight="144" />
+<SubTexture name="Eva Idle0002" x="188" y="0" width="94" height="144" frameX="0" frameY="0" frameWidth="94" frameHeight="144" />
+<SubTexture name="Eva Idle0003" x="282" y="0" width="94" height="144" frameX="0" frameY="0" frameWidth="94" frameHeight="144" />
+<SubTexture name="Eva Idle0004" x="0" y="144" width="94" height="144" frameX="0" frameY="0" frameWidth="94" frameHeight="144" />
+<SubTexture name="Eva Idle0005" x="94" y="144" width="94" height="144" frameX="0" frameY="0" frameWidth="94" frameHeight="144" />
+<SubTexture name="Eva Idle0006" x="188" y="144" width="94" height="144" frameX="0" frameY="0" frameWidth="94" frameHeight="144" />
+<SubTexture name="Eva Idle0007" x="282" y="144" width="94" height="144" frameX="0" frameY="0" frameWidth="94" frameHeight="144" />
+<SubTexture name="Eva Idle0008" x="0" y="288" width="94" height="144" frameX="0" frameY="0" frameWidth="94" frameHeight="144" />
+<SubTexture name="Eva Idle0009" x="94" y="288" width="94" height="144" frameX="0" frameY="0" frameWidth="94" frameHeight="144" />
+<SubTexture name="Eva Idle0010" x="188" y="288" width="94" height="144" frameX="0" frameY="0" frameWidth="94" frameHeight="144" />
+<SubTexture name="Eva Left0000" x="282" y="288" width="94" height="144" frameX="0" frameY="0" frameWidth="94" frameHeight="144" />
+<SubTexture name="Eva Left0001" x="0" y="432" width="94" height="144" frameX="0" frameY="0" frameWidth="94" frameHeight="144" />
+<SubTexture name="Eva Down0000" x="94" y="432" width="94" height="144" frameX="0" frameY="0" frameWidth="94" frameHeight="144" />
+<SubTexture name="Eva Down0001" x="188" y="432" width="94" height="144" frameX="0" frameY="0" frameWidth="94" frameHeight="144" />
+<SubTexture name="Eva Right0000" x="282" y="432" width="94" height="144" frameX="0" frameY="0" frameWidth="94" frameHeight="144" />
+<SubTexture name="Eva Right0001" x="0" y="576" width="94" height="144" frameX="0" frameY="0" frameWidth="94" frameHeight="144" />
+<SubTexture name="Eva Up0000" x="94" y="576" width="94" height="144" frameX="0" frameY="0" frameWidth="94" frameHeight="144" />
+<SubTexture name="Eva Up0001" x="188" y="576" width="94" height="144" frameX="0" frameY="0" frameWidth="94" frameHeight="144" />
+</TextureAtlas>

@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		310,
+		190
+	],
+	"scale": 10,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-1,
+				-3
+			],
+			"idle_offsets": [
+				-1,
+				-3
+			],
+			"loop_name": "Talk0",
+			"idle_name": "Talk0005"
+		},
+		{
+			"loop_name": "Talk Excited0",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Talk Excited0005",
+			"anim": "excited",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Talk Shy0",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Talk Shy0005",
+			"anim": "shy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Eva_Dialogue"
+}

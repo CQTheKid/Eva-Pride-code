@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "eva",
+			"boxState": "normal",
+			"expression": "shy",
+			"text": "Gosh... I've been waiting in that line since this morning..."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "evabf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bop, boop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eva",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "It's nice to meet ya, BF! Also a pleasure to meet you too GF!"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "evagf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yep! Nice to meet you to!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "evabf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eva",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Now..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eva",
+			"boxState": "normal",
+			"expression": "shy",
+			"text": "I know you two probably hear this a lot..."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "evabf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eva",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "Would you be willing to have a small rap session against me?! I love singing!!!"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "evagf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No need to shout, Bf would love to have a rap session!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "evabf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eva",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Alright! Lets do this!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "evabf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bap, skdoo!"
+		}
+	]
+}
